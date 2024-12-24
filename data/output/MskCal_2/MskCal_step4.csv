@@ -1,0 +1,168 @@
+﻿lemma,word,part_of_speech,category,meaning,code,p_20_masked,p_40_masked,p_60_masked,p_80_masked,p_100_masked
+we,We,PRON,,"ourselves, us",r057,True,False,True,True,True
+simulate,simulate,VERB,technical term,To recreate or represent something as closely as possible,r047,False,False,True,True,True
+sale,sales,NOUN,technical term,The act of selling something,r044,False,False,True,True,True
+plan,plan,NOUN,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+recall,recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,",r039,False,True,False,False,True
+zx-1000,ZX-1000,ADJ,NORP,model of a scooter,r059,False,True,False,True,True
+model,model,NOUN,technical term,A representation or prototype of something.,r027,False,False,True,True,True
+base,based,VERB,,Found the plan on,r013,False,True,False,False,True
+follow,following,VERB,organization name,To adhere to instructions or guidelines.,r022,False,False,False,True,True
+sale,sales,NOUN,technical term,The act of selling something,r044,False,False,True,True,True
+plan,plan,NOUN,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+please,Please,INTJ,,,r033,False,True,False,True,True
+fill,fill,VERB,technical term,To complete or provide content to something.,r021,False,True,True,True,True
+blank,blanks,NOUN,,Empty space or location,r014,False,True,True,True,True
+simulation,simulation,NOUN,technical term,A representation of a real-world situation,r048,True,True,False,True,True
+accord,according,VERB,,"Agree, be in harmony",r012,False,True,False,True,True
+condition,conditions,NOUN,higher-level concept,"Requirement, circumstance",r016,False,False,True,True,True
+Reference,Reference,PROPN,Technical Term,A point or instance in a text or document that requires attention or further explanation.,r006,False,False,True,True,True
+Sales,Sales,PROPN,Technical Term,The act of selling goods or services to customers.,r008,False,True,False,True,True
+Plan,Plan,PROPN,Technical Term,A strategic outline for achieving a specific goal or objective.,r004,True,False,False,True,True
+Scooter Model:,Scooter Model:,PROPN,PERSON,Specific vehicle model designed for two-wheeled transportation.,r009,False,False,True,False,True
+ZX-1000,ZX-1000,PROPN,product name,Scooter model,r011,True,False,False,True,True
+Production,Production,PROPN,Technical Term,The manufacturing process of creating goods or products.,r005,False,False,True,True,True
+Volume,Volume,PROPN,Technical Term,The amount or quantity of something.,r010,False,True,True,True,True
+unit,units,NOUN,,a single item or quantity,r054,False,True,False,True,True
+Production,Production,PROPN,Technical Term,The manufacturing process of creating goods or products.,r005,False,False,True,True,True
+Plan,Plan,PROPN,Technical Term,A strategic outline for achieving a specific goal or objective.,r004,True,False,False,True,True
+unit,units,NOUN,,a single item or quantity,r054,False,True,False,True,True
+Domestic Inventory,Domestic Inventory,PROPN,ORG,Inventory of goods within a specific geographical area (domestic). ,r002,True,True,True,False,True
+unit,units,NOUN,,a single item or quantity,r054,False,True,False,True,True
+project,Projected,VERB,technical term,to estimate or forecast something.,r037,False,False,True,True,True
+Revenue,Revenue,PROPN,Technical Term,Income generated from the sale of goods or services.,r007,False,False,True,False,True
+ZX-1000,ZX-1000,PROPN,product name,Scooter model,r011,True,False,False,True,True
+Domestic Projected,Domestic Projected,PROPN,PERSON,Estimate or forecast specifically related to domestic operations or events.,r003,True,True,True,False,True
+Revenue,Revenue,PROPN,Technical Term,Income generated from the sale of goods or services.,r007,False,False,True,False,True
+/Reference,/Reference,PROPN,Technical Term,Reference to a specific document or data source.,r001,True,True,True,True,True
+Sales,Sales,PROPN,Technical Term,The act of selling goods or services to customers.,r008,False,True,False,True,True
+Plan,Plan,PROPN,Technical Term,A strategic outline for achieving a specific goal or objective.,r004,True,False,False,True,True
+condition,Conditions,NOUN,higher-level concept,"Requirement, circumstance",r016,False,False,True,True,True
+recall,recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,",r039,False,True,False,False,True
+cost,cost,NOUN,higher-level concept,"Expense, price",r017,False,False,False,True,True
+unit,unit,NOUN,,a single item or quantity,r054,False,True,False,True,True
+set,set,VERB,technical term,To establish a value or quantity,r046,False,False,True,True,True
+which,which,PRON,,used to refer to something previously mentioned,r058,False,False,False,True,True
+include,includes,VERB,organization name,To encompass or contain something as a part.,r024,False,False,False,True,True
+cost,costs,NOUN,higher-level concept,"Expense, price",r017,False,False,False,True,True
+such,such,ADJ,technical term,referring to a specific type or condition,r051,False,True,True,True,True
+part,parts,NOUN,organization name,A component or section of something larger.,r030,False,True,True,True,True
+repair,repairs,NOUN,technical term,The process of fixing something that is broken,r042,False,False,False,True,True
+transportation,transportation,NOUN,technical term,the act of moving goods or people from one place to another,r053,False,True,True,True,True
+other,other,ADJ,individual name,Additional or supplementary.,r029,True,False,True,True,True
+expense,expenses,NOUN,higher-level concept,"Spending, outflow of money",r020,False,True,True,True,True
+post-recall,post-recall,ADJ,technical term,Occurring after a recall event,r034,False,False,True,True,True
+sale,sales,NOUN,technical term,The act of selling something,r044,False,False,True,True,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+estimate,estimated,VERB,,Calculate approximately,r019,False,True,False,True,True
+reduction,reduction,NOUN,technical term, the action or process of making  something less,r040,False,False,True,True,True
+rate,rate,NOUN,technical term,"a measure of the frequency, quantity or intensity of something; can refer to speed",r038,False,False,True,True,True
+simulation,Simulation,NOUN,technical term,A representation of a real-world situation,r048,True,True,False,True,True
+let,Let,VERB,individual name,To assign a value to a variable.,r026,False,False,False,True,True
+production,production,NOUN,technical term,the process of creating goods,r036,False,False,True,True,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+production,production,NOUN,technical term,the process of creating goods,r036,False,False,True,True,True
+plan,plan,NOUN,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+inventory,inventory,NOUN,technical term,A complete list of items or stock.,r025,False,False,False,False,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+plan,planned,VERB,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+revenue,revenue,NOUN,technical term,Income generated from business activities,r043,True,False,False,False,True
+planned,planned,ADJ,technical term,carried out according to a plan,r032,False,False,True,True,True
+revenue,revenue,NOUN,technical term,Income generated from business activities,r043,True,False,False,False,True
+model,model,NOUN,technical term,A representation or prototype of something.,r027,False,False,True,True,True
+subject,subject,ADJ,technical term,Related to or pertaining to a specific topic or area,r049,False,False,False,True,True
+recall,recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,",r039,False,True,False,False,True
+number,number,NOUN,organization name,A specific quantity or amount.,r028,False,False,True,True,True
+unit,units,NOUN,,a single item or quantity,r054,False,True,False,True,True
+sell,sold,VERB,technical term,To exchange goods or services for money,r045,False,True,True,False,True
+subject,subject,ADV,technical term,Related to or pertaining to a specific topic or area,r049,False,False,False,True,True
+recall,recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,",r039,False,True,False,False,True
+calculate,calculated,VERB,,Determine mathematically,r015,True,False,True,False,True
+subtract,subtracting,VERB,technical term,To remove a quantity from another quantity,r050,True,True,True,True,True
+number,number,NOUN,organization name,A specific quantity or amount.,r028,False,False,True,True,True
+unit,units,NOUN,,a single item or quantity,r054,False,True,False,True,True
+remain,remaining,VERB,technical term,To persist or continue to exist,r041,False,False,False,True,True
+unsold,unsold,ADJ,,not sold,r055,False,False,False,True,True
+production,production,NOUN,technical term,the process of creating goods,r036,False,False,True,True,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+i.e.,i.e.,X,technical term,"Abbreviation for 'id est,' which means 'that is.'",r023,True,True,True,True,True
+sale,sales,NOUN,technical term,The act of selling something,r044,False,False,True,True,True
+price,price,NOUN,technical term,"the amount of money expected, required, or paid for something",r035,False,False,False,True,True
+model,model,NOUN,technical term,A representation or prototype of something.,r027,False,False,True,True,True
+subject,subject,ADJ,technical term,Related to or pertaining to a specific topic or area,r049,False,False,False,True,True
+recall,recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,",r039,False,True,False,False,True
+calculate,calculated,VERB,,Determine mathematically,r015,True,False,True,False,True
+divide,dividing,VERB,,Separate into parts,r018,False,False,True,True,True
+plan,planned,VERB,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+sale,sales,NOUN,technical term,The act of selling something,r044,False,False,True,True,True
+revenue,revenue,NOUN,technical term,Income generated from business activities,r043,True,False,False,False,True
+model,model,NOUN,technical term,A representation or prototype of something.,r027,False,False,True,True,True
+total,total,NOUN,organization name,,r052,False,True,False,False,True
+production,production,NOUN,technical term,the process of creating goods,r036,False,False,True,True,True
+plan,plan,NOUN,technical term,a detailed proposal for doing or achieving something,r031,False,False,True,True,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+inventory,inventory,NOUN,technical term,A complete list of items or stock.,r025,False,False,False,False,True
+volume,volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed,r056,False,True,True,False,True
+i.e.,i.e.,X,technical term,"Abbreviation for 'id est,' which means 'that is.'",r023,True,True,True,True,True
+cost,costs,NOUN,,,r017,False,False,False,True,True
+such,such,ADJ,,,r051,False,True,True,True,True
+part,parts,NOUN,,,r030,False,True,True,True,True
+repair,repairs,NOUN,,,r042,False,False,False,True,True
+transportation,transportation,NOUN,,,r053,False,True,True,True,True
+other,other,ADJ,,,r029,True,False,True,True,True
+expense,expenses,NOUN,,,r020,False,True,True,True,True
+post-recall,post-recall,ADJ,,,r034,False,False,True,True,True
+sale,sales,NOUN,,,r044,False,False,True,True,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+estimate,estimated,VERB,,,r019,False,True,False,True,True
+reduction,reduction,NOUN,,,r040,False,False,True,True,True
+rate,rate,NOUN,,,r038,False,False,True,True,True
+simulation,Simulation,NOUN,,,r048,True,True,False,True,True
+let,Let,VERB,,,r026,False,False,False,True,True
+production,production,NOUN,,,r036,False,False,True,True,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+production,production,NOUN,,,r036,False,False,True,True,True
+plan,plan,NOUN,,,r031,False,False,True,True,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+inventory,inventory,NOUN,,,r025,False,False,False,False,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+plan,planned,VERB,,,r031,False,False,True,True,True
+revenue,revenue,NOUN,,,r043,True,False,False,False,True
+planned,planned,ADJ,,,r032,False,False,True,True,True
+revenue,revenue,NOUN,,,r043,True,False,False,False,True
+model,model,NOUN,,,r027,False,False,True,True,True
+subject,subject,ADJ,,,r049,False,False,False,True,True
+recall,recall,NOUN,,,r039,False,True,False,False,True
+number,number,NOUN,,,r028,False,False,True,True,True
+unit,units,NOUN,,,r054,False,True,False,True,True
+sell,sold,VERB,,,r045,False,True,True,False,True
+subject,subject,ADV,,,r049,False,False,False,True,True
+recall,recall,NOUN,,,r039,False,True,False,False,True
+calculate,calculated,VERB,,,r015,True,False,True,False,True
+subtract,subtracting,VERB,,,r050,True,True,True,True,True
+number,number,NOUN,,,r028,False,False,True,True,True
+unit,units,NOUN,,,r054,False,True,False,True,True
+remain,remaining,VERB,,,r041,False,False,False,True,True
+unsold,unsold,ADJ,,,r055,False,False,False,True,True
+production,production,NOUN,,,r036,False,False,True,True,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+i.e.,i.e.,X,,,r023,True,True,True,True,True
+sale,sales,NOUN,,,r044,False,False,True,True,True
+price,price,NOUN,,,r035,False,False,False,True,True
+model,model,NOUN,,,r027,False,False,True,True,True
+subject,subject,ADJ,,,r049,False,False,False,True,True
+recall,recall,NOUN,,,r039,False,True,False,False,True
+calculate,calculated,VERB,,,r015,True,False,True,False,True
+divide,dividing,VERB,,,r018,False,False,True,True,True
+plan,planned,VERB,,,r031,False,False,True,True,True
+sale,sales,NOUN,,,r044,False,False,True,True,True
+revenue,revenue,NOUN,,,r043,True,False,False,False,True
+model,model,NOUN,,,r027,False,False,True,True,True
+total,total,NOUN,,,r052,False,True,False,False,True
+production,production,NOUN,,,r036,False,False,True,True,True
+plan,plan,NOUN,,,r031,False,False,True,True,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+inventory,inventory,NOUN,,,r025,False,False,False,False,True
+volume,volume,NOUN,,,r056,False,True,True,False,True
+i.e.,i.e.,X,,,r023,True,True,True,True,True

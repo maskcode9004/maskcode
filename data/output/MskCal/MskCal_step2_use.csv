@@ -1,0 +1,209 @@
+﻿lemma,word,part_of_speech,category,meaning,code
+we,We,PRON,Organization Name,The team or individuals executing this sales plan simulation,r063
+simulate,simulate,VERB,,Model or replicate a system or process,r052
+sale,sales,NOUN,technical term,the act of selling something,r049
+plan,plan,NOUN,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+zx-1000,ZX-1000,ADJ,NORP,The name of a scooter model produced by a company.,r065
+model,model,NOUN,technical term,A specific version or design of a product,r031
+base,based,VERB,,to establish as a foundation,r014
+follow,following,VERB,,To go after or obey instructions,r025
+sale,sales,NOUN,technical term,the act of selling something,r049
+plan,plan,NOUN,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+please,Please,INTJ,,A polite request or expression of courtesy,r037
+fill,fill,VERB,,To make something complete or full,r024
+blank,blanks,NOUN,,empty space,r015
+simulation,simulation,NOUN,technical term,A representation of a real-world system or process,r053
+accord,according,VERB,,to agree,r012
+condition,conditions,NOUN,,a requirement or circumstance for something to happen,r017
+Reference,Reference,PROPN,Technical Term,Document,r006
+Reference,Reference,PROPN,Technical Term,Document,r006
+Sales,Sales,PROPN,Organization Name,Commercial Business,r008
+Plan,Plan,PROPN,Technical Term,Strategy or Action,r004
+Scooter Model:,Scooter Model:,PROPN,PERSON,Product or Specific Item,r009
+ZX-1000,ZX-1000,PROPN,product name,Scooter model produced by Tanaka Vehicles,r011
+Production,Production,PROPN,Technical Term,Manufacturing Process,r005
+Volume,Volume,PROPN,Technical Term,Quantity,r010
+Production,Production,PROPN,Technical Term,Manufacturing Process,r005
+Plan,Plan,PROPN,Technical Term,Strategy or Action,r004
+unit,units,NOUN,technical term,"A single, indivisible item or quantity",r060
+unit,units,NOUN,technical term,"A single, indivisible item or quantity",r060
+unit,units,NOUN,technical term,"A single, indivisible item or quantity",r060
+Domestic Inventory,Domestic Inventory,PROPN,ORG,Company or Business Entity,r002
+project,Projected,VERB,technical term,to estimate or propose a plan,r041
+ZX-1000,ZX-1000,PROPN,product name,Scooter model produced by Tanaka Vehicles,r011
+Revenue,Revenue,PROPN,Technical Term,Income Generated,r007
+Revenue,Revenue,PROPN,Technical Term,Income Generated,r007
+Domestic Projected,Domestic Projected,PROPN,PERSON,Person or Individual,r003
+Sales,Sales,PROPN,Organization Name,Commercial Business,r008
+Plan,Plan,PROPN,Technical Term,Strategy or Action,r004
+condition,Conditions,NOUN,,a requirement or circumstance for something to happen,r017
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+cost,cost,NOUN,,the amount of money required for something,r019
+unit,units,NOUN,technical term,"A single, indivisible item or quantity",r060
+set,set,VERB,technical term,Assign a value or parameter,r051
+which,which,PRON,Technical Term,A specific instance of the ZX-1000 model,r064
+include,includes,VERB,,To encompass or contain something as part of a larger whole,r027
+cost,costs,NOUN,,the amount of money required for something,r019
+such,such,ADJ,,Of that kind or nature; similar to what has been mentioned,r056
+part,parts,NOUN,technical term,A component or fragment of a larger whole,r034
+repair,repairs,NOUN,technical term,the act of fixing something that is broken,r046
+transportation,transportation,NOUN,technical term,The movement of goods or people from one place to another,r059
+other,other,ADJ,technical term,Additional or supplementary elements,r033
+expense,expenses,NOUN,technical term,"A cost incurred, typically related to business operations",r023
+post-recall,post-recall,ADJ,technical term,Following or occurring after a recall action,r038
+sale,sales,NOUN,technical term,the act of selling something,r049
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+estimate,estimated,VERB,,To calculate or approximate a value,r022
+reduction,reduction,NOUN,technical term,"a decrease in size, amount, or intensity",r044
+rate,rate,NOUN,technical term,"a measure of speed, frequency, or extent",r042
+simulation,Simulation,NOUN,technical term,A representation of a real-world system or process,r053
+let,Let,VERB,,To permit or allow something to happen,r029
+production,production,NOUN,technical term,The process of manufacturing or creating goods,r040
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+production,production,NOUN,technical term,The process of manufacturing or creating goods,r040
+plan,plan,NOUN,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+inventory,inventory,NOUN,technical term,"A complete list of items in stock, typically for business purposes",r028
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+plan,planned,VERB,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+planned,planned,ADJ,technical term,Predetermined or intentionally arranged in advance,r036
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+model,model,NOUN,technical term,A specific version or design of a product,r031
+subject,subject,ADJ,,The topic or object undergoing an action or being examined,r054
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+number,number,NOUN,technical term,A quantitative value representing a quantity or amount,r032
+unit,unit,NOUN,technical term,"A single, indivisible item or quantity",r060
+sell,sold,VERB,technical term,to transfer ownership of something in exchange for money,r050
+subject,subject,ADV,,The topic or object undergoing an action or being examined,r054
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+calculate,calculated,VERB,,to determine by mathematical computation,r016
+subtract,subtracting,VERB,,Remove a quantity from another quantity,r055
+number,number,NOUN,technical term,A quantitative value representing a quantity or amount,r032
+unit,units,NOUN,technical term,"A single, indivisible item or quantity",r060
+remain,remaining,VERB,technical term,to continue to exist or be in a certain state,r045
+unsold,unsold,ADJ,Technical Term,Quantity of products not yet sold,r061
+production,production,NOUN,technical term,The process of manufacturing or creating goods,r040
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+i.e.,i.e.,X,,"Abbreviation for 'id est,' meaning 'that is' or 'in other words'",r026
+sale,sales,NOUN,technical term,the act of selling something,r049
+price,price,NOUN,technical term,The monetary value assigned to a product or service,r039
+model,model,NOUN,technical term,A specific version or design of a product,r031
+subject,subject,ADJ,,The topic or object undergoing an action or being examined,r054
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+calculate,calculated,VERB,,to determine by mathematical computation,r016
+divide,dividing,VERB,technical term,To split or separate something into parts,r021
+plan,planned,VERB,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+sale,sales,NOUN,technical term,the act of selling something,r049
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+model,model,NOUN,technical term,A specific version or design of a product,r031
+total,total,NOUN,,The sum of all parts or quantities,r058
+production,production,NOUN,technical term,The process of manufacturing or creating goods,r040
+plan,plan,NOUN,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+inventory,inventory,NOUN,technical term,"A complete list of items in stock, typically for business purposes",r028
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+i.e.,i.e.,X,,"Abbreviation for 'id est,' meaning 'that is' or 'in other words'",r026
+therefore,Therefore,ADV,,As a result or consequence,r057
+total,total,ADJ,,The sum of all parts or quantities,r058
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+cost,cost,NOUN,,the amount of money required for something,r019
+plan,planned,VERB,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+sale,sales,NOUN,technical term,the act of selling something,r049
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+consider,considering,VERB,,to think carefully about,r018
+reduction,reduction,NOUN,technical term,"a decrease in size, amount, or intensity",r044
+rate,rate,NOUN,technical term,"a measure of speed, frequency, or extent",r042
+post-recall,post-recall,ADJ,technical term,Following or occurring after a recall action,r038
+sale,sales,NOUN,technical term,the act of selling something,r049
+volume,volume,NOUN,Technical Term,"Amount or volume of something produced, sold, or available.",r062
+decrease,decrease,NOUN,,a reduction in size or amount,r020
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+loss,loss,NOUN,organization name,"Financial damage or reduction in value, often due to expenses exceeding revenue",r030
+amount,amount,NOUN,,quantity or sum present,r013
+revise,revised,VERB,technical term,to make changes or corrections to something,r048
+plan,planned,VERB,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+sale,sales,NOUN,technical term,the act of selling something,r049
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+model,model,NOUN,technical term,A specific version or design of a product,r031
+subject,subject,ADJ,,The topic or object undergoing an action or being examined,r054
+recall,recall,NOUN,technical term,the act of retrieving information or a product from the market due to defect,r043
+revise,revised,VERB,technical term,to make changes or corrections to something,r048
+plan,planned,VERB,technical term,A proposed scheme or arrangement for accomplishing a specific goal,r035
+revenue,revenue,NOUN,technical term,income generated from business activities,r047
+simulation,Simulation,NOUN,,,r053
+let,Let,VERB,,,r029
+production,production,NOUN,,,r040
+volume,volume,NOUN,,,r062
+production,production,NOUN,,,r040
+plan,plan,NOUN,,,r035
+volume,volume,NOUN,,,r062
+inventory,inventory,NOUN,,,r028
+volume,volume,NOUN,,,r062
+plan,planned,VERB,,,r035
+revenue,revenue,NOUN,,,r047
+planned,planned,ADJ,,,r036
+revenue,revenue,NOUN,,,r047
+model,model,NOUN,,,r031
+subject,subject,ADJ,,,r054
+recall,recall,NOUN,,,r043
+number,number,NOUN,,,r032
+unit,units,NOUN,,,r060
+sell,sold,VERB,,,r050
+subject,subject,ADV,,,r054
+recall,recall,NOUN,,,r043
+calculate,calculated,VERB,,,r016
+subtract,subtracting,VERB,,,r055
+number,number,NOUN,,,r032
+unit,units,NOUN,,,r060
+remain,remaining,VERB,,,r045
+unsold,unsold,ADJ,,,r061
+production,production,NOUN,,,r040
+volume,volume,NOUN,,,r062
+i.e.,i.e.,X,,,r026
+sale,sales,NOUN,,,r049
+price,price,NOUN,,,r039
+model,model,NOUN,,,r031
+subject,subject,ADJ,,,r054
+recall,recall,NOUN,,,r043
+calculate,calculated,VERB,,,r016
+divide,dividing,VERB,,,r021
+plan,planned,VERB,,,r035
+sale,sales,NOUN,,,r049
+revenue,revenue,NOUN,,,r047
+model,model,NOUN,,,r031
+total,total,NOUN,,,r058
+production,production,NOUN,,,r040
+plan,plan,NOUN,,,r035
+volume,volume,NOUN,,,r062
+inventory,inventory,NOUN,,,r028
+volume,volume,NOUN,,,r062
+i.e.,i.e.,X,,,r026
+therefore,Therefore,ADV,,,r057
+total,total,ADJ,,,r058
+recall,recall,NOUN,,,r043
+cost,cost,NOUN,,,r019
+plan,planned,VERB,,,r035
+sale,sales,NOUN,,,r049
+volume,volume,NOUN,,,r062
+consider,considering,VERB,,,r018
+reduction,reduction,NOUN,,,r044
+rate,rate,NOUN,,,r042
+post-recall,post-recall,ADJ,,,r038
+sale,sales,NOUN,,,r049
+volume,volume,NOUN,,,r062
+decrease,decrease,NOUN,,,r020
+revenue,revenue,NOUN,,,r047
+loss,loss,NOUN,,,r030
+amount,amount,NOUN,,,r013
+revise,revised,VERB,,,r048
+plan,planned,VERB,,,r035
+sale,sales,NOUN,,,r049
+revenue,revenue,NOUN,,,r047
+model,model,NOUN,,,r031
+subject,subject,ADJ,,,r054
+recall,recall,NOUN,,,r043
+revise,revised,VERB,,,r048
+plan,planned,VERB,,,r035
+revenue,revenue,NOUN,,,r047

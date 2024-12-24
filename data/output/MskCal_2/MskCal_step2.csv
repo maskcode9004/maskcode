@@ -1,0 +1,60 @@
+﻿word,part_of_speech,category,meaning
+/Reference,PROPN,Technical Term,Reference to a specific document or data source.
+Domestic Inventory,PROPN,ORG,Inventory of goods within a specific geographical area (domestic). 
+Domestic Projected,PROPN,PERSON,Estimate or forecast specifically related to domestic operations or events.
+Plan,PROPN,Technical Term,A strategic outline for achieving a specific goal or objective.
+Production,PROPN,Technical Term,The manufacturing process of creating goods or products.
+Reference,PROPN,Technical Term,A point or instance in a text or document that requires attention or further explanation.
+Revenue,PROPN,Technical Term,Income generated from the sale of goods or services.
+Sales,PROPN,Technical Term,The act of selling goods or services to customers.
+Scooter Model:,PROPN,PERSON,Specific vehicle model designed for two-wheeled transportation.
+Volume,PROPN,Technical Term,The amount or quantity of something.
+ZX-1000,PROPN,product name,Scooter model
+accord,VERB,,"Agree, be in harmony"
+base,VERB,,Found the plan on
+blank,NOUN,,Empty space or location
+calculate,VERB,,Determine mathematically
+condition,NOUN,higher-level concept,"Requirement, circumstance"
+cost,NOUN,higher-level concept,"Expense, price"
+divide,VERB,,Separate into parts
+estimate,VERB,,Calculate approximately
+expense,NOUN,higher-level concept,"Spending, outflow of money"
+fill,VERB,technical term,To complete or provide content to something.
+follow,VERB,organization name,To adhere to instructions or guidelines.
+i.e.,,technical term,"Abbreviation for 'id est,' which means 'that is.'"
+include,VERB,organization name,To encompass or contain something as a part.
+inventory,NOUN,technical term,A complete list of items or stock.
+let,VERB,individual name,To assign a value to a variable.
+model,NOUN,technical term,A representation or prototype of something.
+number,NOUN,organization name,A specific quantity or amount.
+other,ADJ,individual name,Additional or supplementary.
+part,NOUN,organization name,A component or section of something larger.
+plan,"NOUN, VERB",technical term,a detailed proposal for doing or achieving something
+planned,ADJ,technical term,carried out according to a plan
+price,NOUN,technical term,"the amount of money expected, required, or paid for something"
+production,NOUN,technical term,the process of creating goods
+rate,NOUN,technical term,"a measure of the frequency, quantity or intensity of something; can refer to speed"
+recall,NOUN,technical term,"an act of remembering something or summoning it into one's mind,"
+reduction,NOUN,technical term, the action or process of making  something less
+post-recall,ADJ,technical term,Occurring after a recall event
+project,VERB,technical term,to estimate or forecast something.
+please,INTJ,,
+remain,VERB,technical term,To persist or continue to exist
+repair,NOUN,technical term,The process of fixing something that is broken
+revenue,NOUN,technical term,Income generated from business activities
+sale,NOUN,technical term,The act of selling something
+sell,VERB,technical term,To exchange goods or services for money
+set,VERB,technical term,To establish a value or quantity
+simulate,VERB,technical term,To recreate or represent something as closely as possible
+simulation,NOUN,technical term,A representation of a real-world situation
+subject,"ADJ, ADV",technical term,Related to or pertaining to a specific topic or area
+subtract,VERB,technical term,To remove a quantity from another quantity
+such,ADJ,technical term,referring to a specific type or condition
+transportation,NOUN,technical term,the act of moving goods or people from one place to another
+unit,NOUN,,a single item or quantity
+unsold,ADJ,,not sold
+volume,NOUN,,the amount of space that something occupies or the quantity of something produced or consumed
+we,PRON,,"ourselves, us"
+which,PRON,,used to refer to something previously mentioned
+zx-1000,ADJ,NORP,model of a scooter
+total,NOUN,organization name,

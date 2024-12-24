@@ -1,0 +1,132 @@
+﻿s4_prg_encode_20,s4_prg_encode_40,s4_prg_encode_60,s4_prg_encode_80,s4_prg_encode_100
+"<r063> will simulate the sales plan after the recall of the <r011> model based on the following sales plan. Please fill in the blanks in the <r053> according to the conditions.
+
+<Reference 3: Sales <r004>>
+Scooter Model: <r011>
+2023 Production Volume: 15,840.00 units
+2024 Production <r004>: 27,720.00 units
+<r002> as of the end of April 2024: 3,960.00 units
+
+Projected Revenue for This Fiscal Year: 2,772.00 million yen
+
+(<r011> Domestic Projected Revenue: 1,980.00 million yen)
+</Reference 3: Sales <r004>>
+
+#Conditions
+The recall <r019> per unit is set at 8,000 yen, which includes all <r019>s such as parts, repairs, transportation, and other <r023>.
+The post-recall sales volume N is estimated with a reduction rate of 25%.
+
+#<r053>
+Let A be the production volume in 2023, B the production plan volume for 2024, C the inventory volume as of April 2024, D the <r036> revenue for this fiscal year, and E the <r036> revenue for this fiscal year for the model subject to recall.
+The number of units sold subject to recall, NR: calculated by <r055> the number of units <r045> <r061> as of April 2024 from the 2023 production volume A, <r026>, NR = A - C =
+The sales price of the model subject to recall, P: calculated by dividing the <r036> sales revenue E of the model by the total of the production plan volume B and the inventory volume C for 2024, <r026>, P = E / (B + C) =
+Therefore, the total recall <r019> X is, X = 8,000 * NR =
+Since the <r036> sales volume is B + C, considering the reduction rate, the post-recall sales volume N is, N = (B + C) * (1 - 0.25) =
+The <r020> in revenue Y is, Y = P * (B + C) * 0.25 =
+The loss amount L is, L = X + Y =
+The revised <r036> sales revenue for the model subject to recall, E', is, E' = E - L =
+The revised <r036> revenue for this fiscal year, D', is, D' = D - L =","We will simulate the sales plan after the <r043> of the <r065> model <r014> on the following sales plan. <r037> <r024> in the <r015> in the <r053> <r012> to the conditions.
+
+<Reference 3: <r008> Plan>
+Scooter Model: <r065>
+2023 <r005> <r010>: 15,840.00 <r060>
+2024 <r005> Plan: 27,720.00 <r060>
+<r002> as of the end of April 2024: 3,960.00 <r060>
+
+Projected Revenue for This Fiscal Year: 2,772.00 million yen
+
+(<r065> <r003> Revenue: 1,980.00 million yen)
+</Reference 3: <r008> Plan>
+
+#Conditions
+The <r043> <r019> per <r060> is set at 8,000 yen, which includes all <r019>s such as <r034>, <r046>, transportation, and <r033> expenses.
+The post-<r043> sales volume N is <r022> with a <r044> rate of 25%.
+
+#<r053>
+Let A be the production volume in 2023, B the production plan volume for 2024, C the inventory volume as of April 2024, D the <r036> revenue for this fiscal year, and E the <r036> revenue for this fiscal year for the model <r054> to <r043>.
+The number of <r060> sold <r054> to <r043>, NR: calculated by subtracting the number of <r060> remaining unsold as of April 2024 from the 2023 production volume A, i.e., NR = A - C =
+The sales <r039> of the model <r054> to <r043>, P: calculated by dividing the <r036> sales revenue E of the model by the <r058> of the production plan volume B and the inventory volume C for 2024, i.e., P = E / (B + C) =
+Therefore, the <r058> <r043> <r019> X is, X = 8,000 * NR =
+Since the <r036> sales volume is B + C, considering the <r044> rate, the post-<r043> sales volume N is, N = (B + C) * (1 - 0.25) =
+The <r020> in revenue Y is, Y = P * (B + C) * 0.25 =
+The loss amount L is, L = X + Y =
+The revised <r036> sales revenue for the model <r054> to <r043>, E', is, E' = E - L =
+The revised <r036> revenue for this fiscal year, D', is, D' = D - L =","<r063> will <r052> the <r049> plan after the <r043> of the ZX-1000 <r031> <r014> on the <r025> <r049> plan. Please <r024> in the <r015> in the simulation <r012> to the <r017>.
+
+<Reference 3: <r008> Plan>
+<r009> ZX-1000
+2023 Production <r010>: 15,840.00 units
+2024 Production Plan: 27,720.00 units
+Domestic Inventory as of the end of April 2024: 3,960.00 units
+
+<r041> Revenue for This Fiscal Year: 2,772.00 million yen
+
+(ZX-1000 <r003> Revenue: 1,980.00 million yen)
+</Reference 3: <r008> Plan>
+
+#<r017>
+The <r043> cost per unit is set at 8,000 yen, <r064> includes all costs <r056> as <r034>, <r046>, transportation, and other <r023>.
+The post-<r043> <r049> volume N is <r022> with a reduction <r042> of 25%.
+
+#Simulation
+<r029> A be the production volume in 2023, B the production plan volume for 2024, C the <r028> volume as of April 2024, D the <r036> <r047> for this fiscal year, and E the <r036> <r047> for this fiscal year for the <r031> <r054> to <r043>.
+The <r032> of units <r050> <r054> to <r043>, NR: calculated by subtracting the <r032> of units remaining un<r050> as of April 2024 from the 2023 production volume A, <r026>, NR = A - C =
+The <r049> <r039> of the <r031> <r054> to <r043>, P: calculated by <r021> the <r036> <r049> <r047> E of the <r031> by the total of the production plan volume B and the <r028> volume C for 2024, <r026>, P = E / (B + C) =
+<r057>, the total <r043> cost X is, X = 8,000 * NR =
+Since the <r036> <r049> volume is B + C, considering the reduction <r042>, the post-<r043> <r049> volume N is, N = (B + C) * (1 - 0.25) =
+The <r020> in <r047> Y is, Y = P * (B + C) * 0.25 =
+The loss <r013> L is, L = X + Y =
+The <r048> <r036> <r049> <r047> for the <r031> <r054> to <r043>, E', is, E' = E - L =
+The <r048> <r036> <r047> for this fiscal year, D', is, D' = D - L =","<r063> will simulate the <r049> <r035> after the <r043> of the <r065> <r031> <r014> on the following <r049> <r035>. <r037> <r024> in the <r015> in the simulation <r012> to the <r017>.
+
+<<r006> 3: Sales <r004>>
+Scooter Model: <r065>
+2023 <r005> <r010>: 15,840.00 <r060>
+2024 <r005> <r004>: 27,720.00 <r060>
+<r002> as of the end of April 2024: 3,960.00 <r060>
+
+<r041> Revenue for This Fiscal Year: 2,772.00 million yen
+
+(<r065> Domestic <r041> Revenue: 1,980.00 million yen)
+</<r006> 3: Sales <r004>>
+
+#<r017>
+The <r043> <r019> per <r060> is <r051> at 8,000 yen, which <r027> all <r019>s <r056> as <r034>, repairs, <r059>, and <r033> expenses.
+The post-<r043> <r049> <r062> N is <r022> with a <r044> <r042> of 25%.
+
+#Simulation
+<r029> A be the <r040> <r062> in 2023, B the <r040> <r035> <r062> for 2024, C the inventory <r062> as of April 2024, D the <r035>ned <r047> for this fiscal year, and E the <r035>ned <r047> for this fiscal year for the <r031> <r054> to <r043>.
+The <r032> of <r060> <r050> <r054> to <r043>, NR: <r016> by <r055> the <r032> of <r060> <r045> un<r050> as of April 2024 from the 2023 <r040> <r062> A, <r026>, NR = A - C =
+The <r049> <r039> of the <r031> <r054> to <r043>, P: <r016> by dividing the <r035>ned <r049> <r047> E of the <r031> by the <r058> of the <r040> <r035> <r062> B and the inventory <r062> C for 2024, <r026>, P = E / (B + C) =
+<r057>, the <r058> <r043> <r019> X is, X = 8,000 * NR =
+Since the <r035>ned <r049> <r062> is B + C, <r018> the <r044> <r042>, the post-<r043> <r049> <r062> N is, N = (B + C) * (1 - 0.25) =
+The <r020> in <r047> Y is, Y = P * (B + C) * 0.25 =
+The <r030> <r013> L is, L = X + Y =
+The <r048> <r035>ned <r049> <r047> for the <r031> <r054> to <r043>, E', is, E' = E - L =
+The <r048> <r035>ned <r047> for this fiscal year, D', is, D' = D - L =","<r063> will <r052> the <r049> <r035> after the <r043> of the <r065> <r031> <r014> on the <r025> <r049> <r035>. <r037> <r024> in the <r015> in the <r053> <r012> to the <r017>.
+
+<<r006> 3: <r008> <r004>>
+<r009> <r065>
+2023 <r005> <r010>: 15,840.00 <r060>
+2024 <r005> <r004>: 27,720.00 <r060>
+<r002> as of the end of April 2024: 3,960.00 <r060>
+
+<r041> <r007> for This Fiscal Year: 2,772.00 million yen
+
+(<r065> <r003> <r007>: 1,980.00 million yen)
+</<r006> 3: <r008> <r004>>
+
+#<r017>
+The <r043> <r019> per <r060> is <r051> at 8,000 yen, <r064> <r027> all <r019>s <r056> as <r034>, <r046>, <r059>, and <r033> <r023>.
+The post-<r043> <r049> <r062> N is <r022> with a <r044> <r042> of 25%.
+
+#<r053>
+<r029> A be the <r040> <r062> in 2023, B the <r040> <r035> <r062> for 2024, C the <r028> <r062> as of April 2024, D the <r035>ned <r047> for this fiscal year, and E the <r035>ned <r047> for this fiscal year for the <r031> <r054> to <r043>.
+The <r032> of <r060> <r050> <r054> to <r043>, NR: <r016> by <r055> the <r032> of <r060> <r045> un<r050> as of April 2024 from the 2023 <r040> <r062> A, <r026>, NR = A - C =
+The <r049> <r039> of the <r031> <r054> to <r043>, P: <r016> by <r021> the <r035>ned <r049> <r047> E of the <r031> by the <r058> of the <r040> <r035> <r062> B and the <r028> <r062> C for 2024, <r026>, P = E / (B + C) =
+<r057>, the <r058> <r043> <r019> X is, X = 8,000 * NR =
+Since the <r035>ned <r049> <r062> is B + C, <r018> the <r044> <r042>, the post-<r043> <r049> <r062> N is, N = (B + C) * (1 - 0.25) =
+The <r020> in <r047> Y is, Y = P * (B + C) * 0.25 =
+The <r030> <r013> L is, L = X + Y =
+The <r048> <r035>ned <r049> <r047> for the <r031> <r054> to <r043>, E', is, E' = E - L =
+The <r048> <r035>ned <r047> for this fiscal year, D', is, D' = D - L ="

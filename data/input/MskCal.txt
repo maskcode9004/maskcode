@@ -1,0 +1,27 @@
+We will simulate the sales plan after the recall of the ZX-1000 model based on the following sales plan. Please fill in the blanks in the simulation according to the conditions.
+
+<Reference 3: Sales Plan>
+Scooter Model: ZX-1000
+2023 Production Volume: 15,840.00 units
+2024 Production Plan: 27,720.00 units
+Domestic Inventory as of the end of April 2024: 3,960.00 units
+
+Projected Revenue for This Fiscal Year: 2,772.00 million yen
+
+(ZX-1000 Domestic Projected Revenue: 1,980.00 million yen)
+</Reference 3: Sales Plan>
+
+#Conditions
+The recall cost per unit is set at 8,000 yen, which includes all costs such as parts, repairs, transportation, and other expenses.
+The post-recall sales volume N is estimated with a reduction rate of 25%.
+
+#Simulation
+Let A be the production volume in 2023, B the production plan volume for 2024, C the inventory volume as of April 2024, D the planned revenue for this fiscal year, and E the planned revenue for this fiscal year for the model subject to recall.
+The number of units sold subject to recall, NR: calculated by subtracting the number of units remaining unsold as of April 2024 from the 2023 production volume A, i.e., NR = A - C =
+The sales price of the model subject to recall, P: calculated by dividing the planned sales revenue E of the model by the total of the production plan volume B and the inventory volume C for 2024, i.e., P = E / (B + C) =
+Therefore, the total recall cost X is, X = 8,000 * NR =
+Since the planned sales volume is B + C, considering the reduction rate, the post-recall sales volume N is, N = (B + C) * (1 - 0.25) =
+The decrease in revenue Y is, Y = P * (B + C) * 0.25 =
+The loss amount L is, L = X + Y =
+The revised planned sales revenue for the model subject to recall, E', is, E' = E - L =
+The revised planned revenue for this fiscal year, D', is, D' = D - L =

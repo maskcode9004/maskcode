@@ -1,0 +1,995 @@
+﻿word,part_of_speech,category,meaning,question_id
+arithmetic,ADJ,technical term,mathematical operations,86078
+average,ADJ,technical term,central tendency,86078
+determined,ADJ,,established or ascertained,86078
+dog,NOUN,,domesticated canid,86078
+mean,NOUN,technical term,average value,86078
+pound,NOUN,,unit of weight,86078
+respectively,ADV,,in the order stated,86078
+same,ADJ,,identical or alike,86078
+value,NOUN,,importance or significance,86078
+weight,NOUN,,heaviness,86078
+Mahesh,PROPN,Individual Name,Person,27658
+Rs,PROPN,NORP,Currency,27658
+article,NOUN,Technical Term,Product,27658
+cost,NOUN,Technical Term,Price,27658
+discount,NOUN,Technical Term,Reduction in price,27658
+mark,VERB,Action verb,To set a price,27658
+percentage,NOUN,Technical Term,Proportion,27658
+price,NOUN,Technical Term,Amount paid for something,27658
+sell,VERB,Action verb,To exchange for money,27658
+Rs,PROPN,Individual Name,Currency (Indian Rupee),54084
+divide,VERB,Technical Term,Splitting or distributing something into parts.,54084
+get,VERB,Technical Term,Receiving or acquiring something.,54084
+respectively,ADV,Technical Term,In the order stated.,54084
+share,NOUN,Organization Name,Portion or part received from a total.,54084
+then,ADV,Technical Term,Following this point in time or events.,54084
+way,NOUN,Organization Name,Method or manner of doing something.,54084
+discount,VERB,technical term,Reduction in price,13920
+item,NOUN,organization name,Product being sold,13920
+percentage,NOUN,technical term,Expression of proportion,13920
+price,NOUN,technical term,Monetary value assigned to an item,13920
+sale,NOUN,organization name,Promotional event with discounted pricing,13920
+average,NOUN,technical term,The calculated central tendency of a set of numerical values.,81305
+multiply,VERB,technical term,To increase the value of something by a specific factor.,81305
+new,ADJ,technical term,Different from the previous or existing one.,81305
+number,NOUN,technical term,"A value representing a quantity, in particular an integer.",81305
+set,NOUN,technical term,A collection of items or values.,81305
+then,ADV,technical term,"Subsequently, after something else has happened.",81305
+arithmetic,ADJ,technical term,Mathematical sequence,18645
+progression,NOUN,technical term,Ordered sequence of numbers or terms,18645
+sum,NOUN,technical term,Total value of a set of numbers,18645
+term,NOUN,technical term,Individual component in a sequence,18645
+average,"ADJ, NOUN",technical term,Statistical Measure,12383
+ratio,NOUN,technical term,Proportion or Comparison,12383
+temperature,NOUN,technical term,Heat Intensity,12383
+then,ADV,,Sequence Indicator,12383
+town,NOUN,organization name,Community Location,12383
+Joe,PROPN,PERSON,A person's name,36718
+ceiling,NOUN,TECHNICAL TERM,The upper surface of a room,36718
+constant,ADJ,TECHNICAL TERM,Remaining at a steady level or rate,36718
+dimension,NOUN,TECHNICAL TERM,A measurable extent of something,36718
+give,VERB,ACTION,To provide or present something,36718
+dimensions,NOUN,Technical Term,"Measurements of length, width, and height",36718
+c,VARIABLE,Variable,Another dimension,36718
+meter,NOUN,technical term,Unit of measurement,36718
+paint,VERB,,To apply color to a surface,36718
+rate,NOUN,technical term,Speed or pace of work ,36718
+rectangular,ADJ,,Having four right angles,36718
+room,NOUN,technical term ,An enclosed space within a building,36718
+take,VERB,,To require a certain amount of time,36718
+then,ADV,,At that time or subsequently,36718
+volume,NOUN,technical term,Amount of space occupied by a three-dimensional object,36718
+wall,NOUN,technical term,A vertical structural element that encloses an area,36718
+work,VERB,,To engage in physical or mental labor,36718
+value,NOUN,technical term,variable representing an equation result,69327
+average,NOUN,technical term,Mathematical concept representing the central value of a set of numbers,49968
+8)%,SYM,organization name,Percentage,71969
+able,ADJ,technical term,Capable,71969
+bacteria,NOUN,technical term,"Microscopic, single-celled organisms belonging to the kingdom Bacteria.",71969
+bacterial,ADJ,technical term,Relating to bacteria or their processes.,71969
+body,NOUN,organization name,Human Anatomy,71969
+budget,NOUN,organization name,Financial resources allocated to a project or activity.,71969
+certain,ADJ,technical term,Determined or specific,71969
+computer,NOUN,individual name,Electronic device for processing information.,71969
+create,VERB,technical term,Bring into existence,71969
+cut,NOUN,organization name,Reduction in amount or size.,71969
+find,VERB,Technical Term,to discover or locate through research,71969
+group,NOUN,Organization Name,a collection of individuals working together toward a common goal,71969
+human,ADJ,Technical Term,relating to humans or humankind,71969
+inhabit,VERB,Technical Term,to reside in or occupy a particular place,71969
+know,VERB,Technical Term,to have knowledge or understanding of something,71969
+list,NOUN,Organization Name,a ranked collection of items,71969
+many,ADJ,Technical Term,a large or significant number,71969
+model,"NOUN, VERB",Technical Term,a representation or simplified version of something complex,71969
+plan,VERB,Technical Term,to devise a scheme or outline for a future action,71969
+reduce,VERB,Technical Term,to make smaller or less in amount,71969
+research,NOUN,organization name,Academic Investigation,71969
+selection,NOUN,technical term,Chosen subset of items,71969
+specie,NOUN,technical term,Type of organism,71969
+term,NOUN,technical term,Defined concept within a field,71969
+x%,NOUN,NORP,Percentage value,71969
+as,ADV,  ,Used to introduce a comparison or state something figuratively,13250
+many,ADJ, ,A large amount or number of,13250
+next,ADV, ,Immediately following in time or order,13250
+other,ADJ, ,Different from those already mentioned,13250
+people,NOUN,Individual Name,"Humans beings, individuals",13250
+row,NOUN, ,A line of things arranged one behind the other,13250
+seat,VERB,  ,To place oneself or be placed in a seat,13250
+such,ADJ, ,"Of that kind, similar to what has been mentioned",13250
+way,NOUN,Organization Name,A method or manner of doing something,13250
+well,ADV, ,In a good manner or to a high degree,13250
+value,NOUN,technical term,mathematical expression,3450
+begin,VERB,Technical Term,"Start, Commence",15858
+camping,NOUN,Activity,Outdoor Recreation,15858
+Probability,NOUN,Mathematical Concept,"Chance, Likelihood",15858
+home,ADV,Location,Residence,15858
+morning,NOUN,Time Unit,Part of Day,15858
+rain,NOUN,technical term,Weather phenomenon,15858
+John,PROPN,Individual Name,Person,15858
+Malachi,PROPN,Individual Name,Person,15858
+following,ADJ,,,15858
+return,VERB,,,15858
+vacation,NOUN,Technical Term,A period of time dedicated to leisure and travel.,15858
+be,VERB,technical term,Existence state,56794
+become,VERB,technical term,Transformation,56794
+can,NOUN,organization name,Container,56794
+capacity,NOUN,technical term,Measurement,56794
+fill,VERB,technical term,Complete,56794
+find,VERB,technical term,Discover,56794
+full,ADJ,technical term,Completeness,56794
+litre,NOUN,technical term,Measurement unit,56794
+milk,NOUN,technical term,Liquid,56794
+mixture,NOUN,technical term,Combination,56794
+ratio,NOUN,technical term,Proportion,56794
+water,NOUN,technical term,Liquid,56794
+advanced,ADJ,technical term,high level of education or skill,14968
+college,NOUN,organization name,educational institution,14968
+company,NOUN,organization name,business entity,14968
+degree,NOUN,technical term,level of academic achievement,14968
+employee,NOUN,individual name,member of a workforce,14968
+female,NOUN,individual name,sex at birth classification,14968
+have,VERB,,possession or experience,14968
+male,NOUN,individual name,sex at birth classification,14968
+many,ADJ,,a large amount or number,14968
+only,ADV,,exclusive possession or application,14968
+rest,NOUN,technical term,Group of people without advanced degrees,14968
+total,NOUN,technical term,Combined number of employees,14968
+age,NOUN,Technical Term,A measure of time elapsed since birth or another significant event.,96669
+as,ADV,,In the manner of; similar to,96669
+old,ADJ,Technical Term,Advanced in years; not young.,96669
+term,NOUN,Technical Term,A word or phrase with a specific meaning in a particular context or field.,96669
+time,NOUN,Technical Term,"The indefinite continued progress of existence and events in the past, present, and future considered as a whole",96669
+R,PROPN,Variable,Unknown Value,96669
+Diesel,PROPN,ORG,Fuel type,36071
+cost,"VERB, NOUN",,Financial expenditure,36071
+diesel,NOUN,ORG,Fuel type,36071
+light,VERB,,To illuminate,36071
+litre,NOUN,,Unit of volume,36071
+month,NOUN,,Time period,36071
+more,ADJ,,Greater quantity or amount,36071
+petrol,NOUN,ORG,Fuel type,36071
+price,NOUN,,Value of something,36071
+rise,NOUN,,Increase in value or amount,36071
+rs.4per,NOUN,Organization Name,"Company, Selling",36071
+take,VERB,,,36071
+unchanged,ADJ,,,36071
+coordinate,NOUN,technical term,Mathematics,94035
+enclose,VERB,technical term,Graphical representation,94035
+parabola,NOUN,technical term,Mathematical curve,94035
+region,NOUN,,Area on a graph,94035
+point,NOUN,general concept,Specific location,94035
+plane,NOUN,technical term,geometry,94035
+I,PRON,organization name,Referring to the first option,94035
+III,PRON,organization name,Referring to the third option,94035
+be,VERB,Technical Term,Mathematical State,94035
+follow,VERB,Organization Name,Adhere to Instructions,94035
+Rs.390,PROPN,organization name,Financial amount,78610
+discount,NOUN,technical term,Reduction in price,78610
+list,VERB,,To present a document or set of items,78610
+price,NOUN,technical term,Cost of an item,78610
+sale,NOUN,technical term,Promotional event with reduced prices,78610
+saree,NOUN,,Traditional garment,78610
+successive,ADJ,,Following one after another in order,78610
+arrive,VERB,Technical Term,Supplementation,40410
+find,VERB,,Discovery,40410
+garrison,NOUN,Organization Name,Military Unit,40410
+have,VERB,,Possession,40410
+last,VERB,,Duration,40410
+man,NOUN,Individual Name,Soldier,40410
+more,ADJ,,Quantity,40410
+now,ADV,,Present Time,40410
+only,ADV,,Exclusivity,40410
+provision,NOUN,Technical Term,Supplies,40410
+reinforcement,NOUN,technical term,Additional support or troops added to an existing force.,40410
+no,NOUN,technical term,Number of,2370
+nonofficer,NOUN,organizational name,Employee not holding an officer position,2370
+employee,NOUN,organizational name,A worker for a company or organization,2370
+no.of,NOUN,organization name,Number of employees,2370
+non,ADJ,individual name,Employees who are not officers,2370
+average,ADJ,technical term,Typical or mean salary value,2370
+avg,ADJ,technical term,Short for average salary,2370
+month,NOUN,technical term,Time period for salary calculation,2370
+find,VERB,,,2370
+office,NOUN,organization name,Work environment,2370
+officer,NOUN,individual name,Person with authority in an organization,2370
+rs 110,ADP,technical term,Salary of non-officers,2370
+rs.120,NOUN,technical term,Average salary of employees in the office,2370
+salary,NOUN,technical term,Compensation for work,2370
+average,NOUN,Technical Term,Performance measurement in sports,44277
+certain,ADJ,None,Specific or definite,44277
+cricketer,NOUN,Technical Term,A person who plays cricket,44277
+have,VERB,None,Possess or own,44277
+increase,VERB,Technical Term,Grow larger or higher in value,44277
+inning,NOUN,Technical Term,A period of play in a cricket match,44277
+new,ADJ,None,"Recently made, introduced or formed",44277
+run,NOUN,Technical Term,A scored point in cricket,44277
+score,VERB,None,Gain a particular amount of points or achieve success,44277
+thereby,ADV,None,"Consequently, by this means",44277
+Paul,PROPN,Individual Name,A person,46007
+Peter,PROPN,Individual Name,A person,46007
+age,NOUN,Technical Term,measurement of time passed,46007
+be,VERB,,Exist,46007
+friend,NOUN,,A person with whom one has a bond of mutual affection.,46007
+now,ADV,,Currently,46007
+old,ADJ,Technical Term,Advanced in years,46007
+peter,PROPN,Individual Name,A person,46007
+present,ADJ,,Existing now or currently,46007
+as,ADV,,,46007
+sum,NOUN,technical term,Addition,46007
+twice,ADV,technical term,Double the value of something,46007
+adjacent,ADJ,technical term,Position/Relationship,84482
+color,NOUN,technical term,Visual Attribute,84482
+different,ADJ,technical term,Dissimilar,84482
+face,NOUN,technical term,Part of Shape,84482
+grey,PROPN,individual name,Color Shade,84482
+many,ADJ,technical term,Quantity,84482
+mark,VERB,technical term,Label/Indicate,84482
+paint,VERB,technical term,Cover/Decorate with Color,84482
+purple,NOUN,color,Color Shade,84482
+side,NOUN,technical term,Portion of Shape,84482
+triangle,NOUN,technical term,Geometric Shape,84482
+violet,NOUN,color,Purple hue,84482
+way,NOUN,,Method,84482
+use,VERB,,,84482
+CAT,PROPN,ORG,Company,57035
+add,VERB,technical term,Perform mathematical summation,57035
+alphabet,NOUN,technical term,Set of letters,57035
+equal,ADJ,technical term,Possess the same value,57035
+have,VERB,technical term,Exhibit a characteristic or property,57035
+length,NOUN,technical term,Measure of size,57035
+letter,NOUN,technical term,Symbol representing a sound,57035
+multiply,VERB,technical term,Perform mathematical product,57035
+number,NOUN,TECHNICAL TERM,Quantifiable entity,57035
+obtain,VERB,technical term,Acquire possession of,57035
+place,NOUN,technical term,position or location in a system or structure,57035
+sum,NOUN,technical term,the result of adding numbers together,57035
+thus,ADV,technical term,"therefore, as a consequence",57035
+value,NOUN,technical term,"importance, worth, or numerical representation",57035
+word,NOUN,technical term,unit of language consisting of one or more spoken sounds or written letters.,57035
+then,ADV,,,57035
+change,NOUN,technical term,Alteration in volume or shape,78816
+cylinder,NOUN,technical term,Geometric object with circular base and straight sides,78816
+height,NOUN,technical term,Dimension from base to top of a shape,78816
+radius,NOUN,technical term,Distance from center to edge of a circle,78816
+reshape,VERB,technical term,Alter the shape of something,78816
+result,NOUN,technical term,Outcome or consequence,78816
+volume,NOUN,technical term,Amount of space a three-dimensional shape occupies,78816
+follow,VERB,,,78816
+great,ADJ,,,78816
+add,VERB,technical term,Mathematical Operation to Combine Values,29338
+age,"VERB, NOUN",technical term,Measure of Time Elapsed Since an Event,29338
+average,ADJ,technical term,Central Tendency Measure for Data Sets,29338
+decrease,VERB,technical term,Reduction in Quantity or Degree Over Time,29338
+group,NOUN,organization name,Collection of Individuals with Shared Characteristics,29338
+increase,NOUN,technical term,Rise in Quantity or Degree Over Time,29338
+instead,ADV,technical term,Alternative to a Previous Option,29338
+people,NOUN,individual name,Human Beings,29338
+person,NOUN,individual name,Single Human Being,29338
+value,NOUN,technical term,Assigned Importance or Worth,29338
+3600,NUM,MONEY,Amount of money.,83902
+@25,ADJ,Technical Term,Interest Rate Percentage.,83902
+compound,ADJ,Technical Term,Type of financial calculation,83902
+difference,NOUN,Technical Term,Calculated result of a subtraction.,83902
+interest,NOUN,Technical Term,Financial gain earned over time.,83902
+simple,ADJ,Technical Term,Type of financial calculation,83902
+sum,NOUN,MONEY,Total amount.,83902
+answer,NOUN,technical term,A response to a question,73290
+award,VERB,general,To give something as a prize or recognition,73290
+be,VERB,general,To exist or to have a particular state,73290
+correct,ADJ,technical term,Accurate or right,73290
+deduct,VERB,general,To subtract or take away,73290
+many,ADJ,general,A large amount,73290
+question,NOUN,technical term,An inquiry or problem requiring an answer,73290
+score,NOUN,technical term,A numerical representation of the success of a task,73290
+sukanya,NOUN,individual name,The person who took the test mentioned in Text2,73290
+total,NOUN,general,The sum or complete amount,73290
+wrong,ADJ,Technical Term,Scoring system,73290
+Rs,PROPN,"NORP, ORG",Currency,93107
+income,NOUN,,Financial gain,93107
+investment,NOUN,,Capital committed for financial return,93107
+make,VERB,,Generate or achieve,93107
+obtain,VERB,,Acquire or procure,93107
+order,NOUN,,Arrangement or sequence,93107
+stock,NOUN,,Ownership share in a company,93107
+Joey,PROPN,Individual Name,Student,49178
+age,NOUN,Technical Term,A numerical representation of a person's years since birth.,49178
+determine,VERB,,To establish or ascertain,49178
+equal,VERB,,To be the same as,49178
+following,ADJ,,Subsequent or coming after something else,49178
+grade,NOUN,Technical Term,A measure of academic performance,49178
+method,NOUN,Technical Term,A systematic approach to achieving a desired outcome,49178
+on,ADV,,in relation to,49178
+psychology,NOUN,Technical Term,The scientific study of the mind and behavior,49178
+school,NOUN,Organization Name,An institution of learning,49178
+student,NOUN,individual name,A person enrolled in a school.,49178
+then,ADV,technical term,Indicates a subsequent point or event in time.,49178
+come,VERB,null,null,88018
+follow,VERB,null,null,88018
+mark,NOUN,null,Process of assigning,88018
+number,NOUN,Technical Term,Quantified Value,88018
+place,NOUN,null,null,88018
+question,NOUN,Organization Name. ,Doubt or Inquiry,88018
+series,NOUN,Technical Term,Ordered Set of Items,88018
+Claire,PROPN,Individual Name,Person,11163
+Lisa,PROPN,Individual Name,Person,11163
+Robert,PROPN,Individual Name,Person,11163
+as,ADV, ,Comparitive Relation,11163
+many,ADJ,,Quantity,11163
+more,ADJ,,Quantity,11163
+number,NOUN,Technical Term,Quantity,11163
+photo,NOUN,,Image Capture,11163
+same,ADJ,,Equality,11163
+school,NOUN,Organization Name,Education Institution,11163
+take,VERB,action,Capture or record something.,11163
+time,NOUN,concept,"Duration, period, epoch.",11163
+trip,NOUN,activity,"Journey, excursion.",11163
+give,VERB,Technical Term,Medical Procedure,85741
+minute,NOUN,Technical Term,Unit of Time,85741
+pill,NOUN,Technical Term,Medication,85741
+require,VERB,Technical Term,Medical Necessity,85741
+take,VERB,Technical Term,Medication Administration,85741
+long,ADV,None,,85741
+patient,NOUN,Individual Name,,85741
+run,VERB,None,,85741
+CANNOT,VERB,Technical Term,Possibility,14727
+II,PROPN,Individual Name,Option Two,14727
+III,PROPN,Individual Name,Option Three,14727
+consecutive,ADJ,Technical Term,Following in a series,14727
+follow,VERB,Technical Term,To be part of a sequence,14727
+i.,NOUN,Organization Name,Option One,14727
+integer,NOUN,Technical Term,Whole number,14727
+large,ADJ,Technical Term,Size or amount,14727
+negative,ADJ,Technical Term,Valoration less than zero,14727
+positive,ADJ,Technical Term,Valoration greater than zero,14727
+product,NOUN,technical term,Mathematical result of multiplication,14727
+sum,NOUN,technical term,Total obtained from addition,14727
+true,ADJ,technical term,Correct or accurate,14727
+small,ADJ,Technical Term,Describes a physical quantity or characteristic relating to size relative to some scale or standard.,14727
+certain,ADJ,technical term,describing a quality or feature that is specific and definite,69576
+follow,VERB, ,to adhere to or comply with something,69576
+point,NOUN,technical term,a specific location in space,69576
+quadrant,NOUN,technical term,one of the four sections of a plane divided by two perpendicular lines,69576
+same,ADJ, ,identical or alike in some way,69576
+square,NOUN,technical term,a geometric shape with four equal sides and four right angles,69576
+vertex,NOUN,technical term,a corner or angle of a polygon,69576
+Taylor,PROPN,Individual Name,Person attending carnival,36939
+attempt,VERB,,Action of trying to shoot a basket,36939
+basket,NOUN,,Target in basketball game,36939
+basketball,NOUN,,Type of ball used in the game,36939
+carnival,NOUN,,"Event with games and activities, including basketball shooting",36939
+exactly,ADV,,Specific number of baskets,36939
+hoop,NOUN,,Target for shooting the basketball,36939
+hope,VERB,,Desired outcome of successfully shooting baskets,36939
+bear,PROPN,Individual Name,Toy,36939
+go,VERB,General Action,Travel to a location,36939
+Probability,NOUN,Technical Term,"Chance, Likelihood in a situation",36939
+make,VERB,Action Verb,"Achieve desired outcome, Succeed",36939
+shoot,VERB,Action Verb,Attempt a throw with purpose,36939
+win,VERB,Action Verb,"Achieve victory, Succeed in competition",36939
+year,NOUN,Unit of time,Period of 365 days,36939
+same,ADJ,organization name,Carnival,36939
+small,ADJ,technical term,Basketball hoop,36939
+tall,ADJ,technical term,Teddy bear,36939
+teddy,PROPN,individual name,Prize,36939
+try,NOUN,technical term,Attempt a basketball shot,36939
+car,NOUN,technical term,vehicle,77707
+hr,NOUN,technical term,hour,77707
+meter,NOUN,technical term,unit of measurement,77707
+move,NOUN,technical term,change in position,77707
+second,ADV,technical term,unit of time,77707
+speed,NOUN,technical term,rate of motion,77707
+average,ADJ,technical term,Calculating average value,30284
+expenditure,NOUN,,Cost or amount spent,30284
+go,VERB,,To travel or move,30284
+hotel,NOUN,organization name,Place of accommodation,30284
+meal,NOUN,,Food consumed in one sitting,30284
+money,NOUN,,Currency used for transactions,30284
+more,ADJ,,A larger amount or degree,30284
+person,NOUN,individual name,Human being,30284
+r 12,NOUN,PRODUCT,Product identifier 'R 12',30284
+spend,VERB,,To use or expend money,30284
+total,ADJ,Technical Term,Summation of various values,30284
+take,VERB,Action,To consume or receive,30284
+double,VERB,technical term,to increase by a factor of two,72282
+enter,VERB,technical term,to join or come into a given space,72282
+leave,VERB,technical term,to depart from a given space,72282
+man,NOUN,individual name,male human being,72282
+be,VERB,Technical Term,Exist,72282
+currently,ADV,Other,At the present time,72282
+initially,ADV,Other,At the beginning,72282
+many,ADJ,Other,A large amount,72282
+now,ADV,Other,At this moment in time,72282
+number,NOUN,Technical Term,Quantity,72282
+ratio,NOUN,technical term,Mathematical comparison of two quantities,72282
+room,NOUN,general concept,Enclosed space,72282
+then,ADV,time,Indicates a sequence of events,72282
+woman,NOUN,individual name,Female human being,72282
+complete,VERB,technical term,Finished,30265
+day,NOUN,,Time,30265
+many,ADJ,,A large quantity,30265
+project,NOUN,,Task,30265
+quit,VERB,technical term,To cease,30265
+same,ADJ,,Identical,30265
+start,VERB,technical term,Begin,30265
+together,ADV,,Simultaneously,30265
+work,NOUN,technical term,Labor,30265
+12 p.m,NOMINAL PHRASE,TIME,Time,95704
+break,NOUN,EVENT,Pause in activity,95704
+college,NOUN,ORGANIZATION NAME,Educational Institution,95704
+duration,NOUN,TIME,Length of time,95704
+find,VERB,,Discover or ascertain,95704
+give,VERB,,Provide or bestow,95704
+hold,VERB,,Retain or keep,95704
+lecture,NOUN,EVENT,Classroom presentation,95704
+p.m.,NOMINAL PHRASE,TIME,Time of day,95704
+5 minute,NUM,TIME,Duration,95704
+student,NOUN,individual name,A person enrolled in a college or university.,95704
+timing,NOUN,technical term,"The schedule or timeframe for events, particularly in education.",95704
+carve,VERB,technical term,Sculpture creation process,94652
+complete,VERB,technical term,Finishing a sculpture,94652
+cut,VERB,technical term,Sculpture refinement process,94652
+final,ADJ,Technical term,Completed state of the sculpture,94652
+original,ADJ,Technical Term,Initial form of the sculpture,94652
+piece,NOUN,Technical Term,Fragment or section of the sculpture,94652
+remainder,NOUN,technical term,Unsculpted portion of the marble,94652
+sculptor,NOUN,individual name,Artist who creates sculptures,94652
+away,ADV,Other,Describes the direction or state of removal.,94652
+marble,NOUN,Technical Term,A type of stone used in sculpting and construction.,94652
+statue,NOUN,technical term,Sculpture,94652
+weigh,VERB,,To determine the mass of something using a balance.,94652
+weight,NOUN,technical term,Force of gravity acting on an object's mass.,94652
+cube,NOUN,technical term,math operation,93830
+difference,NOUN,technical term,calculation involving subtraction,93830
+great,ADJ,individual name,referring to size or extent,93830
+integer,NOUN,technical term,whole number,93830
+positive,ADJ,technical term,greater than zero,93830
+sum,NOUN,technical term,calculation involving addition,93830
+add,VERB,Action,To incorporate or increase a quantity,48338
+make,VERB,Action,To create or produce something,48338
+milliliter,NOUN,Technical Term,A unit of volume,48338
+much,ADJ,Quantity,A large amount,48338
+solution,NOUN,Technical Term,A homogeneous mixture of two or more substances,48338
+sugar,NOUN,Technical Term,"A sweet, crystalline substance used as a food additive",48338
+water,NOUN,Technical Term,"A transparent, odorless liquid essential for life",48338
+coin,NOUN,technical term,Currency,86193
+flip,"VERB, NOUN",technical term,To toss a coin,86193
+land,VERB,technical term,The result of a coin flip,86193
+probability,NOUN,technical term,Chance or likelihood,86193
+tail,NOUN,technical term,Side of a coin that results in tails,86193
+time,NOUN,technical term,Duration or unit of measurement,86193
+last,ADJ,Technical Term,Referring to the final part or element in a sequence.,86193
+carpet,NOUN,technical term,Floor covering material,78536
+cost,VERB,technical term,Price of an item,78536
+measure,VERB,technical term,To gauge the dimensions of something,78536
+rectangular,ADJ,technical term,Having four right angles and opposite sides equal in length,78536
+cover,VERB,technical term,To completely fill the surface of something ,78536
+floor,NOUN,organization name,Surface area designed for walking or standing,78536
+number,NOUN,technical term,Amount,78536
+24,NUM,MONEY,Cost of the carpet squares per piece,78536
+apiece,ADV,TECHNICAL TERM,Describes the cost per individual unit of something,78536
+need,VERB,TECHNICAL TERM,Expresses a requirement for covering the floor with carpet squares,78536
+square,NOUN,technical term,Unit of area,78536
+total,ADJ,organization name,Summation of all values,78536
+cyclic,ADJ,technical term,Refers to a repeating pattern or cycle,66930
+pair,NOUN,technical term,A group of two,66930
+sequence,NOUN,technical term,An ordered series of events or items,66930
+hand,NOUN,technical term,Gestures of greeting or communication,66930
+shake,VERB,technical term,Action of shaking hands,66930
+people,NOUN,individual name,Collective term for human beings,66930
+together,ADV,,In a collective manner,66930
+many,ADJ,multiple possible,"quantity, abundance",66930
+possible,ADJ,Technical Term,"likelihood, probability",66930
+there,ADV,multiple possible,"presence, existence",66930
+bag,NOUN,organization name,Container holding money,5418
+be,VERB,technical term,State of existence,5418
+coin,NOUN,technical term,Currency,5418
+fill,VERB,technical term,Action of putting something inside a container until it is full,5418
+many,ADJ,organization name,Large quantity,5418
+nickel,NOUN,technical term,A particular type of coin,5418
+nickle,NOUN,organization name,"Error: A spelling error, should be 'nickel'",5418
+penny,NOUN,technical term,A particular type of coin,5418
+ratio,NOUN,technical term,Relationship between quantities,5418
+there,ADV,organization name,Location,5418
+circular,ADJ,technical term,shape,16576
+direction,NOUN,technical term,course,16576
+hr,NOUN,technical term,unit of speed,16576
+length,NOUN,technical term,distance,16576
+meet,VERB,None,encounter,16576
+move,VERB,None,change position,16576
+opposite,ADJ,None,contrary,16576
+person,NOUN,individual name,human being,16576
+point,NOUN,None,location,16576
+run,VERB,None,move fast,16576
+same,ADJ,Technical Term,Point of Reference for Movement,16576
+simultaneously,ADV,,Concurrent Action,16576
+speed,NOUN,Technical Term,Rate of Motion,16576
+start,VERB,,Initiation of Movement,16576
+time,NOUN,Technical Term,Measure of Duration,16576
+track,NOUN,Technical Term,Path of Movement,16576
+combination,NOUN,technical term,A grouping of elements,73670
+evaluate,VERB,technical term,To assess or determine the value of something,73670
+bridge,NOUN,technical term,Architectural structure,59278
+cross,VERB,,Traverse,59278
+hr,NOUN,,Units of time,59278
+length,NOUN,,Linear extent,59278
+long,ADJ,,Extendable,59278
+train,NOUN,technical term,Locomotive with carriages,59278
+travel,VERB,,Move from one place to another,59278
+minimum,ADJ,technical term,Lowest value,61759
+people,NOUN,individual name,Refers to a human being,61759
+possible,ADJ,technical term,Can occur or be achieved,61759
+practice,NOUN,technical term,Act of repeated exercises,61759
+range,NOUN,technical term,Spread or difference in values,61759
+score,NOUN,technical term,result of a performance assessment,61759
+take,VERB,,To complete or perform,61759
+test,NOUN,technical term,A measure of performance or ability,61759
+Price,NOUN,technical term,Finance,37815
+Profit,NOUN,technical term,Finance,37815
+cycle,NOUN,technical term,Bicycles,37815
+$1800,NUM,MONEY,Cost of the cycle,37815
+$220,NUM,MONEY,Desired profit,37815
+Ron,PROPN,PERSON,Individual,37815
+worth,ADJ,technical term,Value,37815
+$1800,NUM,MONEY,Estimated value of the cycle,37815
+sell,VERB,,,37815
+want,VERB,,,37815
+have,VERB,,,37815
+increase,"VERB, NOUN",Technical Term,Change in quantity or magnitude over time,581
+rate,NOUN,Technical Term,Measure of speed or frequency,581
+population,NOUN,Technical Term,Total number of individuals in a given area or group,581
+country,NOUN,Organization Name,Geographic region with defined borders and governance,581
+certain,ADJ,Individual Name,Specific country,581
+every 40 second,DET,TIME,Frequency of increase,581
+person,NOUN,Individual Name,Member of population,581
+many,ADJ,,,581
+colony,NOUN,organization name,Group of people living together in a particular place,50449
+educate,VERB,,To teach someone or to provide knowledge,50449
+find,VERB,,To discover something or solve a problem,50449
+man,NOUN,individual name,A male human being,50449
+number,NOUN,technical term,A quantity or amount of something,50449
+person,NOUN,individual name,Any human being,50449
+ratio,NOUN,technical term,A comparison of two or more quantities,50449
+resident,NOUN,individual name,Someone who lives in a particular place,50449
+then,ADV,,At that time or subsequently,50449
+uneducated,ADJ,,Lacking education or knowledge,50449
+woman,NOUN,Individual Name,A female person within a social context.,50449
+certain,ADJ,Technical Term,Describes a specific characteristic of visual range,88412
+increase,VERB,Technical Term,Action related to modifying the visual range,88412
+location,NOUN,Technical Term,Represents a specific point where the visual range is measured,88412
+percent,NOUN,Technical Term,Unit of measurement for the increase in visual range,88412
+range,NOUN,Technical Term,Measured extent of visual capabilities,88412
+telescope,NOUN,Technical Term,Device used to enhance the visual range,88412
+use,VERB,Technical Term,Action of employing the telescope to modify the visual range,88412
+visual,ADJ,Technical Term,Pertaining to the sense of sight and its capabilities,88412
+particular,ADJ,technical term,specifying a specific location or situation,88412
+average,NOUN,technical term,A measure of central tendency.,76766
+integer,NOUN,technical term,A whole number.,76766
+value,NOUN,technical term,A quantity or quantity measure.,76766
+great,ADJ,,,76766
+least,ADJ,,,76766
+none,NOUN,,,76766
+other,ADJ,,,76766
+possible,ADJ,,,76766
+area,NOUN,technical term,A two-dimensional extent.,95459
+circumference,NOUN,technical term,The distance around a circle.,95459
+find,VERB,action,To determine or locate something.,95459
+radius,NOUN,technical term,The distance from the center of a circle to its edge.,95459
+concentration,NOUN,Technical Term,Percentage of a substance in a mixture,68778
+contain,VERB,,To hold or comprise something,68778
+decrease,VERB,,To reduce in amount or size,68778
+kilogram,NOUN,Technical Term,Unit of mass,68778
+new,ADJ,,Novel or recent,68778
+orange,NOUN,Technical Term,Citrus fruit,68778
+water,NOUN,Technical Term,Transparent liquid essential for life,68778
+weight,NOUN,Technical Term,Measure of heaviness,68778
+Dexter,PROPN,Individual Name,A person competing in a race.,78541
+Prexter,PROPN,Individual Name,A person competing in a race against Dexter.,78541
+community,NOUN,Organization Name,A group of people involved in a competition.,78541
+compete,VERB,,To engage in a contest or rivalry.,78541
+competition,NOUN,Organization Name,A formal contest between individuals or teams.,78541
+cross,VERB,,To move past an opponent or reach a designated point in a race.,78541
+end,NOUN,,The termination point of a race.,78541
+friendly,ADJ,,Characterized by goodnatured rivalry and respect.,78541
+handshake,"NOUN, VERB",,A gesture of greeting or agreement performed by shaking hands.,78541
+happen,VERB,,To occur or take place.,78541
+length,NOUN,technical term,Measurement of size or extent,78541
+m. Dexter,NOUN,individual name,A person competing in a race,78541
+many,ADJ,,A large quantity or number,78541
+meet,VERB,,To come together at a shared location,78541
+min,NOUN,technical term,A unit of time,78541
+other,ADJ,,Different from the one being considered,78541
+pool,NOUN,,An enclosed body of water for swimming or recreation,78541
+race,NOUN,,A competition where participants travel a certain distance as fast as possible,78541
+same,ADJ,,Identical or alike,78541
+sec,PROPN,unit of time,A unit of time,78541
+start,VERB,Technical Term,Initiation of a race or competition,78541
+such,ADJ,Organization name,A type of handshake/meet between racers,78541
+time,NOUN,Technical Term,Duration of the race or a lap,78541
+CANNOT,VERB,technical term,impossibility,42761
+even,ADJ,technical term,number divisible by 2,42761
+integer,NOUN,technical term,whole number,42761
+odd,ADJ,technical term,number not divisible by 2,42761
+follow,VERB,,,42761
+decimal,ADJ,Technical Term,Number Representation,45337
+repeat,NOUN,Technical Term,Repetition Pattern,45337
+indefinitely,ADV,Technical Term,Continuous Process,45337
+value,NOUN,Technical Term,Quantitative Measure,45337
+digit,NOUN,technical term,Numeral within Decimal System,45337
+0.00035,NUM,Technical Term,Specific decimal value,45337
+3)(0.00035,NUM,GPE,,45337
+number,NOUN,,quantity,8200
+party,NOUN,Organization Name,Social gathering,8200
+ratio,NOUN,Technical Term,proportion,8200
+become,VERB,,,8200
+gent,NOUN,Individual Name,,8200
+lady,NOUN,Individual Name,,8200
+leave,VERB,,,8200
+many,ADJ,,,8200
+originally,ADV,,,8200
+people,NOUN,group of people,,8200
+number,NOUN,technical term,Mathematical Concept,15831
+divide,VERB,technical term,Mathematical Operation,15831
+multiply,NOUN,technical term,Mathematical Operation,15831
+answer,NOUN,organization name,Result of Calculation,15831
+then,ADV,,Sequence Indicator,15831
+6 &,NUM,MATHEMATICAL SYMBOL,Mathematical Constant,15831
+no,NOUN,?,# unknown - needs word context from text to determine type or concept,15831
+Lucy,PROPN,Individual Name,Person,13263
+Sam,PROPN,Individual Name,Person,13263
+age,NOUN,Technical Term,Measure of time elapsed since birth,13263
+difference,NOUN,Technical Term,Discrepancy in numerical values,13263
+sum,NOUN,Technical Term,Total value after adding quantities,13263
+positive,ADJ,,Having a greater or more significant value; favorable,13263
+following,NOUN,Technical Term,Subsequent items or events in a sequence,13263
+old,ADJ,,,13263
+represent,VERB,,,13263
+then,ADV,,,13263
+direction,NOUN,technical term,Orientation,92826
+driver,NOUN,individual name,Operator of a train,92826
+find,VERB,technical term,Calculate,92826
+good,NOUN,organization name,Type of train,92826
+long,ADJ,technical term,Measurement,92826
+opposite,ADJ,technical term,Directional,92826
+parallel,ADJ,technical term,Alignment,92826
+pass,VERB,technical term,Overtake,92826
+respectively,ADV,technical term,Sequence,92826
+run,VERB,technical term,Move,92826
+slow,ADJ,technical term,Rate of motion,92826
+so,ADV,,To such an extent,92826
+speed,NOUN,technical term,Rate of change in position over time,92826
+take,VERB,,To require time for,92826
+time,NOUN,technical term,Measurement of duration,92826
+track,NOUN,technical term,Path for movement,92826
+train,"VERB, NOUN",organization name,Collection of rail vehicles for transport,92826
+minute,NOUN,TIME,UNIT OF TIME,1901
+cistern,NOUN,TECHNICAL TERM,CONTAINING WATER,1901
+many,ADJ,,QUANTITY,1901
+alternate,ADJ,,,1901
+fill,VERB,,,1901
+find,VERB,,,1901
+full,ADJ,,,1901
+open,VERB,,,1901
+pipe,NOUN,,,1901
+full,ADJ,,,1901
+respectively,ADV,technical term,Indicates order or sequence of events/actions,1901
+additional,ADJ,,more people,26895
+complete,VERB,,finished,26895
+construct,VERB,,to build,26895
+employ,VERB,,to hire,26895
+house,NOUN,technical term,building,26895
+man,NOUN,individual name,worker,26895
+many,ADJ,,a large number,26895
+8 hour,NUM,TIME,,26895
+9 hour,NUM,TIME,,26895
+day,NOUN,TIME,,26895
+work,"VERB,NOUN",Technical Term,Construction Effort,26895
+set,VERB,Organization Name,Group of Workers Assigned to a Task,26895
+time,NOUN,Technical Term,Duration for Completion,26895
+now,ADV,Technical Term,Present Time Frame,26895
+4.00,NUM,MONEY,Payment,56787
+40,NUM,MONEY,Earnings,56787
+Jill,PROPN,PERSON,Individual,56787
+average,VERB,,Calculate the typical amount,56787
+cost,NOUN,,Expense,56787
+diner,NOUN,ORGANIZATION NAME,Food service establishment,56787
+earn,VERB,,Generate income,56787
+hour,NOUN,TIME,Unit of time,56787
+hourly,ADJ,TIME,Based on each hour,56787
+local,ADJ,,In the nearby area,56787
+order,NOUN,technical term,Food Items Requested at a Restaurant,56787
+rate,NOUN,technical term,Percentage of Tip Given by Customer,56787
+shift,NOUN,technical term,Period of Work at a Restaurant,56787
+tip,NOUN,technical term,Customer's Payment Beyond the Invoice Amount,56787
+wage,NOUN,technical term,Hourly Income Earned by a Server,56787
+waitress,NOUN,individual name,Female Restaurant Employee Who Takes Orders and Serves Food,56787
+much,ADJ,  ,,56787
+serve,VERB,  ,,56787
+standard,ADJ,  ,,56787
+work,VERB,  ,,56787
+boy,NOUN,Individual Name,A male child,29285
+different,ADJ,,Not the same,29285
+have,VERB,,To possess or own,29285
+many,ADJ,,A large quantity,29285
+select,VERB,,To choose  ,29285
+shirt,NOUN,clothing,A garment worn on the upper body,29285
+trouser,NOUN,clothing,A garment worn on the lower body,29285
+way,NOUN,,A method or manner,29285
+many,ADJ,organization name,a large number,46134
+term,NOUN,technical term,a specific word or phrase with a specialized meaning in a particular field or subject matter,46134
+there,ADV,organization name,in that place or position,46134
+Jayant,PROPN,Individual Name,A Person's Name,57548
+attempt,VERB,,To Make an Effort,57548
+correctly,ADV,,In an Accurate Manner,57548
+get,VERB,,To Receive or Acquire,57548
+lose,VERB,,To Fail to Win or Maintain,57548
+number,NOUN,MONEY,Quantity,57548
+obtain,VERB,,To Acquire or Achieve,57548
+right,ADJ,Technical Term,Correct answer,57548
+sum,NOUN,Technical Term,Mathematical problem,57548
+wrong,ADJ,Technical Term,Incorrect answer,57548
+Democrats,PROPN,NORP,Political group,63741
+Republicans,PROPN,NORP,Political group,63741
+congress,PROPN,ORG,Legislative body,63741
+expect,VERB,,Anticipate,63741
+law,NOUN, ,Legislation,63741
+member,NOUN, ,Constituent part,63741
+new,ADJ,,Recent,63741
+percent,NOUN, ,Measure of proportion,63741
+rest,NOUN, ,Remaining portion,63741
+vote,"NOUN, VERB", ,Decision-making process,63741
+Rs.42,PROPN,Organization Name,Currency,48976
+average,ADJ,Technical Term,Statistical Value,48976
+be,VERB,Technical Term,Exist,48976
+day,NOUN,Technical Term,Time Period,48976
+diminish,VERB,Technical Term,Reduce,48976
+expenditure,NOUN,Technical Term,Spending,48976
+expense,NOUN,Technical Term,Cost,48976
+find,VERB,Technical Term,Discover,48976
+head,NOUN,Individual Name,Person,48976
+hostel,NOUN,Organization Name,Residence Facility,48976
+increase,"VERB, NOUN",technical term,"Change over time, often upwards",48976
+mess,NOUN,organization name,Mess hall or place where food is prepared and eaten,48976
+no,NOUN,technical term,"Quantity, amount,  number",48976
+original,ADJ,technical term,"First, earliest form or value",48976
+rs1,NOUN,technical term,Indian currency denomination,48976
+student,NOUN,individual name,Person attending an educational institution,48976
+denominator,NOUN,technical term,A part of a mathematical fraction represented by the bottom number.,15230
+double,VERB,technical term,To multiply a numerical value by two.,15230
+fraction,NOUN,technical term,"A representation of a part of a whole, typically expressed as a ratio of numerator to denominator.",15230
+increase,NOUN,technical term,A rise or upward movement in value or quantity.,15230
+numerator,NOUN,technical term,"The top number of a fraction, representing the part taken.",15230
+percent,NOUN,technical term,A measure expressing a proportion out of one hundred.,15230
+reflect,VERB,technical term,"To show or indicate something, typically as a consequence or result.",15230
+result,VERB,technical term,The outcome or consequence of a process or action.,15230
+triple,VERB,technical term,To multiply a numerical value by three.,15230
+age,NOUN,technical term,Measurement of a person's lifespan,16288
+average,ADJ,technical term,Mean value,16288
+averageage,NOUN,technical term,An average of a set of values,16288
+then,ADV,,Time reference,16288
+weight,NOUN,technical term,Measure of heaviness,16288
+bacteria,NOUN,technical term,Microscopic organisms,2271
+colony,NOUN,technical term,A group of microorganisms living together,2271
+day,NOUN,technical term,A unit of time in a 24-hour period,2271
+double,VERB,,To increase by two times,2271
+large,ADJ,,Extensive or of considerable size,2271
+live,VERB,,To exist and function,2271
+population,NOUN,technical term,The number of individuals within a specific group,2271
+start,VERB,,To begin or commence,2271
+average,NOUN,technical term,A calculated central value,68521
+number,NOUN,technical term,Value or quantity,68521
+prime,ADJ,technical term,A whole number greater than 1 that has only two divisors: 1 and itself,68521
+Rs,PROPN,Organization Name,Currency Symbol -  Indian Rupee,27660
+interest,NOUN,Technical Term,Financial Concept: Return or profit earned on investment,27660
+year,NOUN,,Unit of Time: A period of 365 days,27660
+many,ADJ,,,27660
+produce,VERB,,,27660
+same,ADJ,,,27660
+bacteria,NOUN,technical term,microorganism,70084
+colony,NOUN,technical term,group of bacteria,70084
+day,NOUN,organization name,unit of time,70084
+double,VERB,n/a,multiply by two,70084
+live,VERB,n/a,exist and function,70084
+population,NOUN,technical term,number of individuals in a group,70084
+start,VERB,n/a,begin,70084
+large,ADJ,technical term,Expresses a quantity or extent,70084
+distance,NOUN,technical term,Travel space between points,154
+current,NOUN,technical term,Flow of water,154
+cover,VERB,Technical Term,Navigate or travel a distance,154
+downstream,ADVERB,Technical Term,Moving in the direction of the current,154
+float,VERB,Technical Term,Move passively on a liquid surface,154
+3 hour,NUM,TIME,Duration,154
+5 hour,NUM,TIME,Duration,154
+Town A and Town B,PROPN,ORG,Locations,154
+go,VERB,,Motion,154
+long,ADV,,Extent,154
+move,VERB,technical term,Motion,154
+raft,NOUN,technical term,Watercraft,154
+speed,NOUN,technical term,Velocity,154
+steamer,NOUN,technical term,Vessel propulsion by steam,154
+town,NOUN,organization name,Urban settlement,154
+same,ADJ,,,154
+take,VERB,,,154
+upstream,ADV,,,154
+Gain,NOUN,Technical Term,Financial Analysis,4650
+Percent,NOUN,Technical Term,Mathematics,4650
+Scooter,NOUN,Technical Term,Transportation,4650
+John,PROPN,Individual Name,Person's name,4650
+bike,NOUN,Technical Term,Two-wheeled vehicle,4650
+Rs.,PROPN,"NORP, PERSON",Currency,4650
+buy,VERB,,To acquire something,4650
+repair,NOUN,,The act of fixing something,4650
+sell,VERB,,To exchange something for money,4650
+r,NOUN,,,4650
+spend,VERB,Technical Term,Action of investing or using resources to achieve a goal.,4650
+cost,NOUN,technical term,The amount spent to acquire or produce something.,21387
+gross,ADJ,technical term,"Total profit before any deductions, including taxes. ",21387
+percent,NOUN,technical term,A representation of a part of a whole as a fraction of the whole.,21387
+price,NOUN,technical term,The amount of money asked for or given for something.,21387
+profit,NOUN,technical term,The financial gain made from a transaction or activity.,21387
+selling,NOUN,technical term, The act of selling goods or services.,21387
+car,NOUN,technical term,Vehicle used for transportation,69205
+contain,VERB,,Hold or accommodate something within,69205
+convertible,NOUN,technical term,Motor vehicle with a retractable roof,69205
+dealership,NOUN,,Business that sells vehicles,69205
+minivan,NOUN,technical term,Vehicle designed to transport multiple passengers,69205
+n and p,NOUN,organization name,Represents companies or organizations selling vehicles,69205
+sedan,NOUN,technical term,Car with a four-door body style,69205
+term,NOUN,,Phrase or expression with a specific meaning,69205
+truck,NOUN,technical term,vehicle type,69205
+bring,VERB,,Action: transporting something or someone to a location.,74795
+cherry,NOUN,Organization Name,A type of fruit often used in treats.,74795
+child,NOUN,Individual Name,Young human being.,74795
+choose,VERB,,Making a selection from available options.,74795
+different,ADJ,,Distinct from each other; not the same.,74795
+door,NOUN,,Entranceway to a building or room.,74795
+even,ADV,,Equally distributed or balanced.,74795
+flavor,NOUN,Technical Term,"Sensory quality of something, often related to taste.",74795
+freezer,NOUN,Technical Term,Appliance used for preserving food by lowering its temperature.,74795
+get,VERB,,Acquire possession of something; receive.,74795
+have,VERB,individual name,"person who owns cherry, orange ice pops",74795
+ice,NOUN,technical term,frozen treat,74795
+jealous,ADJ,,feeling of anger towards others having something desired,74795
+lemon,NOUN,technical term,citrus fruit flavor,74795
+make,VERB,,to bring about a desired outcome,74795
+more,ADV,,a greater amount,74795
+mother,NOUN,individual name,female parent of children,74795
+orange,ADJ,technical term,citrus fruit flavor,74795
+other,ADJ,,a contrasting member of a pair,74795
+outside,ADV,,in an external location,74795
+pop,NOUN,technical term,Frozen confection,74795
+probability,NOUN,technical term,Likelihood of an event,74795
+random,ADJ,,Without specific order or preference,74795
+realize,VERB,,Become aware of something,74795
+receive,VERB,,Get or be given something,74795
+return,VERB,,Go back to a previous place or state,74795
+run,VERB,,Move quickly on foot,74795
+same,ADJ,,Identical or alike,74795
+sure,ADJ,,Certain or confident,74795
+treat,NOUN,technical term,Something given as a reward or incentive,74795
+upset,ADJ,technical term,Emotional state induced by a perceived lack of fairness or equality.,74795
+probability,NOUN,technical term,Measure of the likelihood of an event occurring,36175
+couple,NOUN,individual name,Two people in a relationship,36175
+boy,NOUN,Individual Name,Male child,36175
+child,NOUN,Individual Name,Young human being,36175
+decide,VERB,,To make a choice,36175
+equally,ADV,,In a fair or balanced way,36175
+exactly,ADV,,Precisely or accurately,36175
+girl,NOUN,Individual Name,Female child,36175
+have,VERB,,To possess or own,36175
+likely,ADJ,, Probable,36175
+succeed,VERB,Technical Term,Achieve a desired result or goal,36175
+average,ADJ,technical term,speed or rate calculation,57382
+car,NOUN,technical term,motor vehicle for transportation,57382
+driver,NOUN,technical term,person operating a vehicle,57382
+distance,NOUN,technical term,measurement of length between points,57382
+hr,NOUN,technical term,unit of time for hours,57382
+km,NOUN,technical term,unit of distance for kilometers,57382
+apart,ADV,Technical Term,expressing distance,57382
+cover,VERB,Technical Term,to travel a certain distance,57382
+entire,ADJ,Technical Term,relating to whole,57382
+hill,NOUN,Organization Name,a rural travel location,57382
+plain,NOUN,organization name,Land,57382
+return,NOUN,technical term,Opposite direction of travel,57382
+same,ADJ,technical term,Equal in measurement,57382
+speed,NOUN,technical term,Rate of movement,57382
+station,NOUN,organization name,Roadside stop,57382
+travel,VERB,technical term,Move from one place to another,57382
+trip,NOUN,technical term,Journey,57382
+downstream,ADJ,technical term,Direction of water flow relative to a current,46018
+find,VERB,technical term,Calculate or determine a value,46018
+man,NOUN,individual name,Person performing the rowing action,46018
+rate,NOUN,technical term,Speed of motion or movement,46018
+row,VERB,technical term,Propel a boat using oars,46018
+still,ADV,technical term,Lacking movement or current,46018
+upstream,ADV,technical term,Direction of water flow opposite to its current,46018
+water,NOUN,technical term,Fluid medium for movement,46018
+people,NOUN,individual name,Humans,4696
+job,NOUN,technical term,Task,4696
+fraction,NOUN,technical term,Part of a Whole,4696
+certain,ADJ,,A specific but unspecified amount or degree,4696
+complete,VERB,,To finish or bring to a successful conclusion,4696
+individually,ADV,,Separately or alone,4696
+low,ADJ,NULL,Of low level or quantity,4696
+do,VERB,,To perform an action,4696
+rate,NOUN,technical term,Measure of work efficiency,4696
+respective,ADJ,,belonging to each individually,4696
+respectively,ADV,,in the order mentioned,4696
+together,ADV,,Combined as a unit,4696
+work,VERB,,To perform labor or duties,4696
+adjacent,ADJ,technical term,Proximity in relation to other sides,37772
+angle,NOUN,technical term,Geometric figure formed by two intersecting lines,37772
+cube,NOUN,technical term,3-dimensional geometric shape,37772
+diagonal,NOUN,technical term,Line connecting opposite corners of a shape,37772
+measure,NOUN,technical term,Quantitative assessment,37772
+side,NOUN,technical term,Edge or boundary of a shape,37772
+make,VERB,,,37772
+divide,VERB,technical term,Mathematical operation,87169
+integer,NOUN,technical term,Whole numbers,87169
+many,ADJ, ,A large quantity,87169
+positive,ADJ, ,Greater than zero,87169
+remainder,NOUN,technical term,The amount left over after division,87169
+there,ADV, ,In that place,87169
+French,PROPN,NORP,Language,42615
+German,PROPN,NORP,Language,42615
+class,NOUN,Organizational Name,Grouping of students for education,42615
+course,NOUN,Technical Term,Subject taught at a school or institution,42615
+enrol,VERB,,To register for a class or program,42615
+german,ADJ,NORP,Relating to the German language or people,42615
+many,ADJ,,A large or considerable number,42615
+student,NOUN,,A person attending a school or university,42615
+take,VERB,,To choose or enroll in something,42615
+amount,NOUN,technical term,financial value,16818
+annum,ADJ,technical term,per year,16818
+borrow,VERB,None,to take a loan,16818
+have,VERB,None,to possess,16818
+interest,NOUN,technical term,cost of borrowing money,16818
+loan,NOUN,technical term,debt given with an agreement to repay,16818
+man,NOUN,individual name,human being,16818
+pay,VERB,None,to give money in return for goods or services,16818
+principal,ADJ,technical term,original sum borrowed in a loan,16818
+rate,NOUN,technical term,percentage of interest charged per period,16818
+simple,ADJ,technical term,Mathematics,16818
+take,VERB,,Obtain or receive,16818
+consecutive,ADJ,technical term,Sequence of numbers with a constant difference,94386
+divide,VERB,technical term,Break down into smaller parts,94386
+sum,NOUN,technical term,Result of adding numbers together,94386
+integer,NOUN,technical term,Whole number,94386
+great,ADJ,technical term,Largest possible value within a given context,94386
+always,ADV,,,94386
+evenly,ADV,,,94386
+activity,NOUN,Organization Name,Mathematical Problem or Game,18515
+break,VERB,Technical Term,Division or Separation,18515
+card,NOUN,Individual Name,Representation of Prime Number,18515
+certain,ADJ,Technical Term,Definite or Specific,18515
+contain,VERB,Technical Term,Hold or House within,18515
+different,ADJ,Technical Term,Distinct or Unique,18515
+distribute,VERB,Technical Term,Allocate or Spread Out,18515
+envelop,NOUN,Technical Term,Container for Cards,18515
+envelope,NOUN,Technical Term,Container for Cards,18515
+find,VERB,Technical Term,Determine or Discover the Product,18515
+go,VERB, , ,18515
+have,VERB, , ,18515
+high,ADJ, , ,18515
+low,ADJ, , ,18515
+many,ADJ, , ,18515
+mathematical,ADJ,Technical Term,Related to mathematics,18515
+number,NOUN,Technical Term,A quantity represented by digits or symbols,18515
+order,NOUN, ,The sequence or arrangement of things,18515
+prime,ADJ,Technical Term,A natural number greater than 1 that has no positive divisors other than 1 and itself,18515
+process,NOUN, ,A series of actions or steps taken to achieve a particular end,18515
+produce,VERB,Technical Term,To generate or create a result,18515
+product,NOUN,Technical Term,The outcome or result of a process or calculation,18515
+put,VERB,,To place something somewhere,18515
+set,NOUN,Technical Term,"A collection of items or objects, often defined by a specific characteristic or purpose",18515
+then,ADV,,Following a previous action or event,18515
+way,NOUN,Technical Term,A method or approach to achieving something,18515
+MESMERISE,PROPN,ORGANIZATION NAME,A company or organization that creates and sells puzzles based on the patterns in the word 'MESMERISE',50080
+letter,NOUN,TECHNICAL TERM,An individual character within a word or sequence of characters,50080
+number,NOUN,TECHNICAL TERM,A mathematical concept representing a quantity,50080
+permutation,NOUN,TECHNICAL TERM,An arrangement of items in a particular order,50080
+word,NOUN,TECHNICAL TERM,A sequence of letters that has meaning,50080
+inclusive,ADJ,technical term,Describes a range that includes the endpoints,32585
+number,NOUN,technical term,A mathematical concept representing quantity,32585
+odd,ADJ,technical term,Not divisible evenly by 2,32585
+sum,NOUN,technical term,The result of adding a set of numbers,32585
